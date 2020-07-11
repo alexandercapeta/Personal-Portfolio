@@ -60,7 +60,8 @@ a:active{
 @media screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1)
 {
 	#nav-header{
-		font-size: 30px;
+		font-size: 200%;
+		padding-top: 2%;
 	}
 
 	/* Changing the display for the burger icon. Ensuring it doesn't show
