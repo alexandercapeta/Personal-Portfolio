@@ -54,6 +54,7 @@ a:active{
 }
 /*>>>>>>> navBarBranch*/
 
+/* Section with Picture and description */
 #profile-pic{
 	position: relative;
 	margin-top: 6%;
@@ -73,6 +74,19 @@ a:active{
 	border: solid;
 	color: #ffffff;
 }
+
+/* Projects section */
+.projects{
+	font-family: 'Notable', sans-serif;
+	background-color: #379683;
+}
+
+#projects-header{
+	margin-left: 30%;
+	color: #ffffff;
+}
+
+
 
 /* Laptop Screen styling */
 @media screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1)
