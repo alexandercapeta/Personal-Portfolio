@@ -227,6 +227,8 @@ footer hr{
 	}
 
 	.topnav {
+		position: fixed;
+		width: 100%;
 		height: 10;
 		visibility: none;
 		background: #2c3e50;
@@ -251,7 +253,10 @@ footer hr{
 	}
 
 	.topnav #myLinks{
+		/* Position the navbar choices under the nav-header */
+		position: relative;
 		display: block;
+		background-color: #2c3e50;
 	}
 
 	.topnav a {
@@ -264,12 +269,11 @@ footer hr{
 	}
 
 	#nav-header{
-		display: block;
 		padding: 0%;
 		padding-top: 7%;
 		padding-left: 5%;
 		padding-bottom: 2%;
-		font-size: 220%;
+		font-size: 240%;
 		padding-top: 2%;
 	}
 	/*  
