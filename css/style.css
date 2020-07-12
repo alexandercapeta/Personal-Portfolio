@@ -61,6 +61,13 @@ a:active{
 	width: 37%;
 }
 
+.self-description{
+	font-family: 'Notable', sans-serif;
+	font-size: 73%;
+	color: #ffffff;
+	text-align: center;
+}
+
 
 /* Laptop Screen styling */
 @media screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1)
