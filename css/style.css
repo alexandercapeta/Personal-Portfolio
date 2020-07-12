@@ -347,8 +347,7 @@ footer hr{
 		padding-right: 4%;
 	}
 
-	/*
 	.form-container input:hover {
-		color: ;
-	}*/
+		background-color: #387A96;
+	}
 }
