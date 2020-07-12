@@ -339,6 +339,12 @@ footer hr{
 	
 	}
 
+	.project-btn-group button:hover{
+		-ms-transform: scale(1.2);
+		-webkit-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+
 	/* Form container styling */
 	.form-container {
 		font-family: 'Notable', sans-serif;
