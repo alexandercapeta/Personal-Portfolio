@@ -289,4 +289,28 @@ footer hr{
 		background: #5cdb95;
 	}
 
+	/* Profile pic styling */
+	#profile-pic {
+		position: static;
+		margin-top: 13%;
+		margin-left: 40%;
+		width: 18%;
+	}
+
+	/* Name and description styling */
+	#name{
+		font-size: 250%;
+		color: #ffffff;
+	}
+
+	#dividor{
+		width: 15%;
+		border: solid;
+		color: #ffffff;
+	}
+
+	#skills{
+		font-size: 180%;
+		color: #ffffff;
+	}
 }
