@@ -86,7 +86,19 @@ a:active{
 	color: #ffffff;
 }
 
+.project-btn-group {
+	padding-left: 10%;
+	padding-bottom: 2%;
+	color: #379683;
+}
 
+.project-btn-group button{
+	display: block;
+	margin-bottom: 3%;
+	color: #379683;
+	height: 185px;
+	width: 90%;
+}
 
 /* Laptop Screen styling */
 @media screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1)
