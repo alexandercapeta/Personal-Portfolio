@@ -68,6 +68,11 @@ a:active{
 	text-align: center;
 }
 
+#dividor {
+	width: 25%;
+	border: solid;
+	color: #ffffff;
+}
 
 /* Laptop Screen styling */
 @media screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1)
