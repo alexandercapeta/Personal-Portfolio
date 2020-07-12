@@ -128,7 +128,7 @@ input[type=email] {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: #379683;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -151,11 +151,11 @@ input[type=submit]:hover {
   font-family: 'Merriweather Sans', sans-serif;
 }
 
-/*
+
 .form-container input {
 	color: #ffffff;
 }
-*/
+
 
 /*Footer section*/
 footer{
