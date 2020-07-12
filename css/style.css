@@ -321,7 +321,20 @@ footer hr{
 		color: #ffffff;
 	}
 
-	/*.project-btn-group button {
+	.project-btn-group {
+		margin-left: 7%;
+		padding-left: 0;
+		/*padding-left: 10%;*/
+		padding-bottom: 2%;
+		color: #379683;
+	}
+
+	.project-btn-group button{
 		display: inline-block;
-	}*/
+		margin-bottom: 3%;
+		color: #379683;
+		height: 185px;
+		width: 30%;
+	
+	}
 }
