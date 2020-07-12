@@ -314,6 +314,7 @@ footer hr{
 		color: #ffffff;
 	}
 
+	/* Project section styling */
 	#projects-header{
 		font-size: 180%;
 		padding-top: 1%;
@@ -337,4 +338,17 @@ footer hr{
 		width: 30%;
 	
 	}
+
+	/* Form container styling */
+	.form-container {
+		font-family: 'Notable', sans-serif;
+		padding-top: 2%;
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+
+	/*
+	.form-container input:hover {
+		color: ;
+	}*/
 }
