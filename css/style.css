@@ -110,14 +110,15 @@ footer{
 }
 
 .footer-buttons{
-	margin-left: 10%;
+	margin-left: 25%;
 }
 
 .footer-buttons a{
-	margin-left: 10%;
+	margin-left: 13%;
 }
 
-.fa{
+/*Properties for footer fa buttons only*/
+a.fa{
 	padding: 10px;
 	font-size: 10px;
 	width: 20px;
@@ -144,6 +145,20 @@ footer{
 .fa-github{
 	background: #000000;
 	color: white;
+}
+
+footer hr{
+	border: solid;
+	height: 2%;
+	color: #ffffff;
+	width: 33%;
+}
+
+#footer-credits {
+	font-family: 'Notable', sans-serif;
+	font-size: 38%;
+	text-align: center;
+	color: #ffffff;
 }
 
 /* Laptop Screen styling */
