@@ -13,9 +13,9 @@ body{
 }
 
 .topnav #myLinks {
-	/*background-color: #2B4F4F;*/
+	background-color: #2B4F4F;
   	display: none;
-  	/*position: fixed;*/
+  	position: fixed;
   	text-decoration: none;
 }
 .topnav a {
@@ -31,7 +31,7 @@ body{
   display: block;
   margin-top: 3%;
   margin-right: 3%;
-  /*position: fixed;*/
+  position: fixed;
   position: absolute;
   right: 0;
   top: 0;
