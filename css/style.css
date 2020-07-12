@@ -54,6 +54,12 @@ a:active{
 }
 /*>>>>>>> navBarBranch*/
 
+#profile-pic{
+	position: relative;
+	margin-top: 6%;
+	left: 31%;
+	width: 37%;
+}
 
 
 /* Laptop Screen styling */
