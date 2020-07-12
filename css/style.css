@@ -313,4 +313,14 @@ footer hr{
 		font-size: 180%;
 		color: #ffffff;
 	}
+
+	#projects-header{
+		font-size: 180%;
+		margin-left: 44%;
+		color: #ffffff;
+	}
+
+	/*.project-btn-group button {
+		display: inline-block;
+	}*/
 }
