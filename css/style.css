@@ -325,7 +325,6 @@ footer hr{
 	.project-btn-group {
 		margin-left: 7%;
 		padding-left: 0;
-		/*padding-left: 10%;*/
 		padding-bottom: 2%;
 		color: #379683;
 	}
@@ -333,6 +332,7 @@ footer hr{
 	.project-btn-group button{
 		display: inline-block;
 		margin-bottom: 3%;
+		border-radius: 7%;
 		color: #379683;
 		height: 185px;
 		width: 30%;
